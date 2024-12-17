@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="msgBienvenue">こんにちは</string>
+    <string name="Boutton_name">Boutton</string>
+</resources>
